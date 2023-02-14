@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
+    "stargazers_count": 923,
+    "open_issues_count": 140,
+    "forks_count": 266
+  },
+  {
     "full_name": "Abduaziz3455/Telegram_bots",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 23064,
-    "open_issues_count": 174,
-    "forks_count": 2336
+    "stargazers_count": 25506,
+    "open_issues_count": 187,
+    "forks_count": 2639
   },
   {
     "full_name": "harmony-agency/crm",
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "milaan9/07_Python_Advanced_Topics",
-    "stargazers_count": 255,
+    "stargazers_count": 257,
     "open_issues_count": 1,
     "forks_count": 225
   },
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "sajib1066/django-ecommerce",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 3,
     "forks_count": 46
   },
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 10044,
+    "stargazers_count": 10122,
     "open_issues_count": 1,
-    "forks_count": 1342
+    "forks_count": 1349
   },
   {
     "full_name": "adeolaadeoti/adeolaadeoti-v2",
     "stargazers_count": 112,
-    "open_issues_count": 3,
-    "forks_count": 18
+    "open_issues_count": 4,
+    "forks_count": 19
   },
   {
     "full_name": "asliddinovbehzodjon/Check-register-bot",
@@ -147,13 +153,13 @@
     "full_name": "mamineofficial/Pixel-Art-Maker-Udacity",
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 15399,
-    "open_issues_count": 144,
-    "forks_count": 1152
+    "stargazers_count": 15431,
+    "open_issues_count": 96,
+    "forks_count": 1155
   },
   {
     "full_name": "martinwoodward/smart-xmas",
@@ -172,11 +178,5 @@
     "stargazers_count": 37,
     "open_issues_count": 1,
     "forks_count": 29
-  },
-  {
-    "full_name": "nurbekdev/pythonda-vazifalar",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
