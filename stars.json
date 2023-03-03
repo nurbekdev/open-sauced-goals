@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "rustamabdukakhorov/Robocontest",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "idrisovjas/Jobbot",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -13,8 +19,8 @@
   },
   {
     "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
-    "stargazers_count": 931,
-    "open_issues_count": 141,
+    "stargazers_count": 932,
+    "open_issues_count": 143,
     "forks_count": 268
   },
   {
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 33167,
-    "open_issues_count": 237,
-    "forks_count": 3751
+    "stargazers_count": 35139,
+    "open_issues_count": 238,
+    "forks_count": 4027
   },
   {
     "full_name": "harmony-agency/crm",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "zubiden/tg-web-bot-demo",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 0,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "sirSayed98/YallaTourism",
@@ -145,13 +151,13 @@
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 10308,
-    "open_issues_count": 1,
-    "forks_count": 1372
+    "stargazers_count": 10343,
+    "open_issues_count": 2,
+    "forks_count": 1376
   },
   {
     "full_name": "adeolaadeoti/adeolaadeoti-v2",
-    "stargazers_count": 117,
+    "stargazers_count": 120,
     "open_issues_count": 5,
     "forks_count": 20
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 15504,
-    "open_issues_count": 100,
+    "stargazers_count": 15518,
+    "open_issues_count": 99,
     "forks_count": 1165
-  },
-  {
-    "full_name": "martinwoodward/smart-xmas",
-    "stargazers_count": 198,
-    "open_issues_count": 0,
-    "forks_count": 6
   }
 ]
