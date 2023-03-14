@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "muslimbek77/django-tgbot-template",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "rustamabdukakhorov/Robocontest",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
-    "stargazers_count": 938,
+    "stargazers_count": 939,
     "open_issues_count": 143,
     "forks_count": 268
   },
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 40266,
-    "open_issues_count": 167,
-    "forks_count": 4670
+    "stargazers_count": 41879,
+    "open_issues_count": 175,
+    "forks_count": 4903
   },
   {
     "full_name": "harmony-agency/crm",
@@ -151,13 +157,13 @@
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 10399,
+    "stargazers_count": 10465,
     "open_issues_count": 2,
-    "forks_count": 1391
+    "forks_count": 1398
   },
   {
     "full_name": "adeolaadeoti/adeolaadeoti-v2",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 5,
     "forks_count": 20
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 13
-  },
-  {
-    "full_name": "pyscript/pyscript",
-    "stargazers_count": 15553,
-    "open_issues_count": 95,
-    "forks_count": 1166
   }
 ]
