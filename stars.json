@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "NikolaySimakov/Shop-bot",
+    "stargazers_count": 121,
+    "open_issues_count": 2,
+    "forks_count": 36
+  },
+  {
     "full_name": "muslimbek77/django-tgbot-template",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
-    "stargazers_count": 940,
+    "stargazers_count": 944,
     "open_issues_count": 143,
-    "forks_count": 268
+    "forks_count": 270
   },
   {
     "full_name": "Abduaziz3455/Telegram_bots",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 43588,
-    "open_issues_count": 182,
-    "forks_count": 5134
+    "stargazers_count": 46696,
+    "open_issues_count": 188,
+    "forks_count": 5499
   },
   {
     "full_name": "harmony-agency/crm",
@@ -157,13 +163,13 @@
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 10571,
+    "stargazers_count": 10720,
     "open_issues_count": 2,
-    "forks_count": 1416
+    "forks_count": 1432
   },
   {
     "full_name": "adeolaadeoti/adeolaadeoti-v2",
-    "stargazers_count": 122,
+    "stargazers_count": 124,
     "open_issues_count": 5,
     "forks_count": 20
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "mamineofficial/Pixel-Art-Maker-Udacity",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 13
   }
 ]
