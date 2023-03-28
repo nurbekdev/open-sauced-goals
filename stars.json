@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "nurbekdev/DataSciene",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 2,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "muslimbek77/django-tgbot-template",
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
-    "stargazers_count": 945,
+    "stargazers_count": 947,
     "open_issues_count": 144,
-    "forks_count": 270
+    "forks_count": 271
   },
   {
     "full_name": "Abduaziz3455/Telegram_bots",
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 49832,
-    "open_issues_count": 198,
-    "forks_count": 5860
+    "stargazers_count": 53616,
+    "open_issues_count": 207,
+    "forks_count": 6331
   },
   {
     "full_name": "harmony-agency/crm",
@@ -105,7 +111,7 @@
     "full_name": "sajib1066/personal_portfolio",
     "stargazers_count": 33,
     "open_issues_count": 1,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "sajib1066/django-ecommerce",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 10751,
+    "stargazers_count": 10775,
     "open_issues_count": 2,
-    "forks_count": 1439
+    "forks_count": 1446
   },
   {
     "full_name": "adeolaadeoti/adeolaadeoti-v2",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 5,
     "forks_count": 20
-  },
-  {
-    "full_name": "asliddinovbehzodjon/Check-register-bot",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
