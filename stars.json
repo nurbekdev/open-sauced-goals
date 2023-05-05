@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
     "full_name": "Yernazaz/main.py",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 2,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "muslimbek77/django-tgbot-template",
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
-    "stargazers_count": 958,
+    "stargazers_count": 957,
     "open_issues_count": 138,
     "forks_count": 271
   },
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 71247,
+    "stargazers_count": 72060,
     "open_issues_count": 248,
-    "forks_count": 8932
+    "forks_count": 9065
   },
   {
     "full_name": "harmony-agency/crm",
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "iperov/DeepFaceLive",
-    "stargazers_count": 11218,
-    "open_issues_count": 1,
-    "forks_count": 1503
   }
 ]
