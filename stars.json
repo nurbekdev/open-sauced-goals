@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "TutorProgramacion/pyqt-tutorial",
+    "stargazers_count": 19,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
+    "full_name": "PacktPublishing/Django-4-by-example",
+    "stargazers_count": 395,
+    "open_issues_count": 17,
+    "forks_count": 275
+  },
+  {
     "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -19,9 +31,9 @@
   },
   {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 2,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "muslimbek77/django-tgbot-template",
@@ -51,7 +63,7 @@
     "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
     "stargazers_count": 961,
     "open_issues_count": 139,
-    "forks_count": 272
+    "forks_count": 273
   },
   {
     "full_name": "Abduaziz3455/Telegram_bots",
@@ -73,9 +85,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 75182,
-    "open_issues_count": 271,
-    "forks_count": 9564
+    "stargazers_count": 76156,
+    "open_issues_count": 268,
+    "forks_count": 9695
   },
   {
     "full_name": "harmony-agency/crm",
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "milaan9/07_Python_Advanced_Topics",
-    "stargazers_count": 260,
+    "stargazers_count": 262,
     "open_issues_count": 1,
     "forks_count": 227
   },
@@ -164,18 +176,6 @@
   {
     "full_name": "Steph-crown/new-portfolio",
     "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "antoineabbou/particles-danseJS",
-    "stargazers_count": 50,
-    "open_issues_count": 6,
-    "forks_count": 3
-  },
-  {
-    "full_name": "AlGaRitm2020/Informatishka",
-    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   }
