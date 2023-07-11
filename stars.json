@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "CalixtoElProgramador/MathSolar-Android",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "chxry/solaris",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "keerotic/spark-ar-quiz-filter-template",
     "stargazers_count": 7,
     "open_issues_count": 0,
@@ -9,7 +21,7 @@
     "full_name": "un0038998/LineFollowerRobot",
     "stargazers_count": 24,
     "open_issues_count": 1,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "azkazikna/libraryJGU",
@@ -25,9 +37,9 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 449,
+    "stargazers_count": 453,
     "open_issues_count": 20,
-    "forks_count": 301
+    "forks_count": 303
   },
   {
     "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
-    "stargazers_count": 982,
+    "stargazers_count": 983,
     "open_issues_count": 141,
     "forks_count": 276
   },
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 82849,
-    "open_issues_count": 281,
-    "forks_count": 11009
+    "stargazers_count": 83236,
+    "open_issues_count": 282,
+    "forks_count": 11085
   },
   {
     "full_name": "harmony-agency/crm",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "sajib1066/django-ecommerce",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 4,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "zubiden/tg-web-bot-demo",
     "stargazers_count": 46,
     "open_issues_count": 1,
     "forks_count": 17
-  },
-  {
-    "full_name": "sirSayed98/YallaTourism",
-    "stargazers_count": 9,
-    "open_issues_count": 1,
-    "forks_count": 6
-  },
-  {
-    "full_name": "Boburshoh-oss/Language_arts_bot",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
