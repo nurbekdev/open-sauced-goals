@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "qewer33/qpaperOS",
+    "stargazers_count": 374,
+    "open_issues_count": 0,
+    "forks_count": 15
+  },
+  {
     "full_name": "CalixtoElProgramador/MathSolar-Android",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 491,
-    "open_issues_count": 22,
-    "forks_count": 321
+    "stargazers_count": 493,
+    "open_issues_count": 23,
+    "forks_count": 325
   },
   {
     "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "open_issues_count": 5,
     "forks_count": 56
   },
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 85923,
-    "open_issues_count": 292,
-    "forks_count": 11532
+    "stargazers_count": 86147,
+    "open_issues_count": 293,
+    "forks_count": 11572
   },
   {
     "full_name": "harmony-agency/crm",
@@ -129,7 +135,7 @@
     "full_name": "milaan9/07_Python_Advanced_Topics",
     "stargazers_count": 266,
     "open_issues_count": 1,
-    "forks_count": 231
+    "forks_count": 232
   },
   {
     "full_name": "followking337/learning-python",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "sajib1066/django-ecommerce",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 4,
     "forks_count": 49
-  },
-  {
-    "full_name": "zubiden/tg-web-bot-demo",
-    "stargazers_count": 46,
-    "open_issues_count": 1,
-    "forks_count": 17
   }
 ]
