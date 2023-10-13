@@ -1,7 +1,25 @@
 [
   {
+    "full_name": "prooxyyy/shopbot",
+    "stargazers_count": 117,
+    "open_issues_count": 4,
+    "forks_count": 47
+  },
+  {
+    "full_name": "sardoregamberdiyev/Django-school-site-and",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "SanjarbekSaminjonov/django-aiogram-template",
+    "stargazers_count": 29,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
     "full_name": "Master-Bruno/Hack-Telegram",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 12,
     "forks_count": 20
   },
@@ -33,7 +51,7 @@
     "full_name": "un0038998/LineFollowerRobot",
     "stargazers_count": 26,
     "open_issues_count": 1,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "azkazikna/libraryJGU",
@@ -49,7 +67,7 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 555,
+    "stargazers_count": 557,
     "open_issues_count": 26,
     "forks_count": 358
   },
@@ -73,9 +91,9 @@
   },
   {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 202,
+    "stargazers_count": 203,
     "open_issues_count": 4,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "muslimbek77/django-tgbot-template",
@@ -127,9 +145,9 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 90182,
-    "open_issues_count": 289,
-    "forks_count": 12226
+    "stargazers_count": 90401,
+    "open_issues_count": 288,
+    "forks_count": 12266
   },
   {
     "full_name": "harmony-agency/crm",
@@ -141,7 +159,7 @@
     "full_name": "milaan9/07_Python_Advanced_Topics",
     "stargazers_count": 269,
     "open_issues_count": 1,
-    "forks_count": 260
+    "forks_count": 261
   },
   {
     "full_name": "followking337/learning-python",
@@ -160,23 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "diyor-adm/number_to_words",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "diyor-adm/num_to_sum_bot",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "sajib1066/personal_portfolio",
-    "stargazers_count": 39,
-    "open_issues_count": 3,
-    "forks_count": 25
   }
 ]
