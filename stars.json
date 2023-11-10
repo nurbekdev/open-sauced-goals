@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "selfedu-rus/machine_learning",
+    "stargazers_count": 29,
+    "open_issues_count": 0,
+    "forks_count": 18
+  },
+  {
+    "full_name": "sheensol/rocket_lms",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Jonibek0727/Tabriknomabot",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "Master-Bruno/Hack-Telegram",
-    "stargazers_count": 84,
+    "stargazers_count": 87,
     "open_issues_count": 13,
     "forks_count": 24
   },
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 582,
+    "stargazers_count": 588,
     "open_issues_count": 28,
-    "forks_count": 366
+    "forks_count": 368
   },
   {
     "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
@@ -109,8 +121,8 @@
   },
   {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 218,
-    "open_issues_count": 4,
+    "stargazers_count": 220,
+    "open_issues_count": 5,
     "forks_count": 68
   },
   {
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
-    "stargazers_count": 1002,
+    "stargazers_count": 1001,
     "open_issues_count": 146,
     "forks_count": 283
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 91902,
-    "open_issues_count": 288,
-    "forks_count": 12519
-  },
-  {
-    "full_name": "harmony-agency/crm",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "milaan9/07_Python_Advanced_Topics",
-    "stargazers_count": 271,
-    "open_issues_count": 1,
-    "forks_count": 271
+    "stargazers_count": 92286,
+    "open_issues_count": 287,
+    "forks_count": 12558
   }
 ]
