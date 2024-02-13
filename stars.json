@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "pribalta/takagi_sugeno_kang_fuzzy_system",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "MRK-YT/MT-VideoCompress",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 51
+  },
+  {
     "full_name": "perborgen/LogisticRegression",
     "stargazers_count": 295,
     "open_issues_count": 4,
@@ -13,13 +25,13 @@
   },
   {
     "full_name": "SawyerHood/draw-a-ui",
-    "stargazers_count": 12514,
+    "stargazers_count": 12524,
     "open_issues_count": 46,
-    "forks_count": 1445
+    "forks_count": 1449
   },
   {
     "full_name": "selfedu-rus/machine_learning",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 19
   },
@@ -61,7 +73,7 @@
   },
   {
     "full_name": "SanjarbekSaminjonov/django-aiogram-template",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "un0038998/LineFollowerRobot",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 2,
     "forks_count": 34
   },
@@ -115,9 +127,9 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 659,
+    "stargazers_count": 661,
     "open_issues_count": 31,
-    "forks_count": 408
+    "forks_count": 410
   },
   {
     "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 264,
+    "stargazers_count": 263,
     "open_issues_count": 5,
     "forks_count": 79
   },
@@ -164,18 +176,6 @@
   {
     "full_name": "IdrisovJasur/eshopBot",
     "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "witnessmenow/Universal-Arduino-Telegram-Bot",
-    "stargazers_count": 1027,
-    "open_issues_count": 148,
-    "forks_count": 295
-  },
-  {
-    "full_name": "Abduaziz3455/Telegram_bots",
-    "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   }
