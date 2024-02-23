@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "vsecoder/group-schedule-bot",
+    "stargazers_count": 2,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "pribalta/takagi_sugeno_kang_fuzzy_system",
     "stargazers_count": 9,
     "open_issues_count": 0,
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "SawyerHood/draw-a-ui",
-    "stargazers_count": 12560,
+    "stargazers_count": 12579,
     "open_issues_count": 47,
-    "forks_count": 1461
+    "forks_count": 1450
   },
   {
     "full_name": "selfedu-rus/machine_learning",
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "Master-Bruno/Hack-Telegram",
-    "stargazers_count": 128,
+    "stargazers_count": 130,
     "open_issues_count": 17,
-    "forks_count": 33
+    "forks_count": 30
   },
   {
     "full_name": "qewer33/qpaperOS",
-    "stargazers_count": 445,
+    "stargazers_count": 447,
     "open_issues_count": 2,
     "forks_count": 17
   },
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 670,
+    "stargazers_count": 675,
     "open_issues_count": 31,
     "forks_count": 414
   },
@@ -168,14 +174,8 @@
     "forks_count": 1
   },
   {
-    "full_name": "IdrisovJasur/Jobbot",
+    "full_name": "idrisovjasur/Jobbot",
     "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "IdrisovJasur/eshopBot",
-    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   }
