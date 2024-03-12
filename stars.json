@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ageron/handson-ml3",
+    "stargazers_count": 5715,
+    "open_issues_count": 73,
+    "forks_count": 2324
+  },
+  {
     "full_name": "vsecoder/group-schedule-bot",
     "stargazers_count": 2,
     "open_issues_count": 2,
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "SawyerHood/draw-a-ui",
-    "stargazers_count": 12621,
-    "open_issues_count": 47,
-    "forks_count": 1459
+    "stargazers_count": 12639,
+    "open_issues_count": 46,
+    "forks_count": 1461
   },
   {
     "full_name": "selfedu-rus/machine_learning",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "Master-Bruno/Hack-Telegram",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 17,
     "forks_count": 30
   },
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 687,
+    "stargazers_count": 691,
     "open_issues_count": 31,
-    "forks_count": 413
+    "forks_count": 415
   },
   {
     "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
@@ -157,7 +163,7 @@
   },
   {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 270,
+    "stargazers_count": 273,
     "open_issues_count": 5,
     "forks_count": 84
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "idrisovjasur/Jobbot",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
