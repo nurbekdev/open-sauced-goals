@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "YC/coming-soon",
+    "stargazers_count": 65,
+    "open_issues_count": 0,
+    "forks_count": 150
+  },
+  {
     "full_name": "ageron/handson-ml3",
-    "stargazers_count": 5766,
-    "open_issues_count": 74,
-    "forks_count": 2356
+    "stargazers_count": 5806,
+    "open_issues_count": 76,
+    "forks_count": 2374
   },
   {
     "full_name": "vsecoder/group-schedule-bot",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "perborgen/LogisticRegression",
-    "stargazers_count": 299,
+    "stargazers_count": 298,
     "open_issues_count": 5,
-    "forks_count": 269
+    "forks_count": 270
   },
   {
     "full_name": "Jonibek0727/bot_our_brand",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "SawyerHood/draw-a-ui",
-    "stargazers_count": 12666,
+    "stargazers_count": 12678,
     "open_issues_count": 46,
-    "forks_count": 1469
+    "forks_count": 1473
   },
   {
     "full_name": "selfedu-rus/machine_learning",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "prooxyyy/shopbot",
-    "stargazers_count": 139,
+    "stargazers_count": 138,
     "open_issues_count": 5,
-    "forks_count": 55
+    "forks_count": 54
   },
   {
     "full_name": "sardoregamberdiyev/Django-school-site-and",
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "Master-Bruno/Hack-Telegram",
-    "stargazers_count": 137,
+    "stargazers_count": 139,
     "open_issues_count": 18,
     "forks_count": 30
   },
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 698,
-    "open_issues_count": 31,
-    "forks_count": 416
+    "stargazers_count": 701,
+    "open_issues_count": 32,
+    "forks_count": 419
   },
   {
     "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "NikolaySimakov/Shop-bot",
-    "stargazers_count": 275,
+    "stargazers_count": 276,
     "open_issues_count": 5,
     "forks_count": 83
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "rustamabdukakhorov/Robocontest",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
