@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Jabborbek/oAuth2-for-Hemis-platform",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "YC/coming-soon",
     "stargazers_count": 65,
     "open_issues_count": 0,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "ageron/handson-ml3",
-    "stargazers_count": 5887,
-    "open_issues_count": 76,
-    "forks_count": 2416
+    "stargazers_count": 5909,
+    "open_issues_count": 77,
+    "forks_count": 2422
   },
   {
     "full_name": "vsecoder/group-schedule-bot",
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "SawyerHood/draw-a-ui",
-    "stargazers_count": 12710,
+    "stargazers_count": 12718,
     "open_issues_count": 46,
     "forks_count": 1481
   },
@@ -80,8 +86,8 @@
   {
     "full_name": "prooxyyy/shopbot",
     "stargazers_count": 139,
-    "open_issues_count": 5,
-    "forks_count": 55
+    "open_issues_count": 6,
+    "forks_count": 56
   },
   {
     "full_name": "sardoregamberdiyev/Django-school-site-and",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "Master-Bruno/Hack-Telegram",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 18,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "qewer33/qpaperOS",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "PacktPublishing/Django-4-by-example",
-    "stargazers_count": 708,
+    "stargazers_count": 713,
     "open_issues_count": 32,
-    "forks_count": 422
+    "forks_count": 426
   },
   {
     "full_name": "GyaneshSamanta/Arduino-Sunflower-Semiconductor-Miniproject",
@@ -171,12 +177,6 @@
     "full_name": "NikolaySimakov/Shop-bot",
     "stargazers_count": 280,
     "open_issues_count": 5,
-    "forks_count": 86
-  },
-  {
-    "full_name": "muslimbek77/django-tgbot-template",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 87
   }
 ]
