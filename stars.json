@@ -7,9 +7,9 @@
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 48621,
+    "stargazers_count": 48662,
     "open_issues_count": 100,
-    "forks_count": 2269
+    "forks_count": 2274
   },
   {
     "full_name": "achyutneupane/Restaurants-Menu",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "ageron/handson-ml3",
-    "stargazers_count": 9002,
+    "stargazers_count": 9025,
     "open_issues_count": 110,
-    "forks_count": 3646
+    "forks_count": 3655
   },
   {
     "full_name": "vsecoder/group-schedule-bot",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "perborgen/LogisticRegression",
-    "stargazers_count": 317,
+    "stargazers_count": 318,
     "open_issues_count": 5,
     "forks_count": 270
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "SawyerHood/draw-a-ui",
-    "stargazers_count": 13489,
+    "stargazers_count": 13491,
     "open_issues_count": 51,
-    "forks_count": 1616
+    "forks_count": 1617
   },
   {
     "full_name": "selfedu-rus/machine_learning",
@@ -120,12 +120,6 @@
     "forks_count": 7
   },
   {
-    "full_name": "Master-Bruno/Hack-Telegram",
-    "stargazers_count": 267,
-    "open_issues_count": 22,
-    "forks_count": 78
-  },
-  {
     "full_name": "qewer33/qpaperOS",
     "stargazers_count": 470,
     "open_issues_count": 3,
@@ -151,7 +145,7 @@
   },
   {
     "full_name": "un0038998/LineFollowerRobot",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 4,
     "forks_count": 50
   },
@@ -178,5 +172,11 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 7
+  },
+  {
+    "full_name": "Yernazaz/main.py",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
   }
 ]
